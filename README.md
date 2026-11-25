@@ -36,3 +36,7 @@ O deploy é contínuo: cada push na `main` publica automaticamente na Vercel (pr
 ## Contato
 
 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-victor-stavarengo-silva-78776a236/) · [Portfólio](https://victorstavarengo.vercel.app) · [Email](mailto:joaovictorstavarengo@gmail.com)
+
+## Licença
+
+Distribuído sob a licença MIT. Veja o arquivo [LICENSE](LICENSE).
