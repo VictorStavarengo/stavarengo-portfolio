@@ -8,7 +8,7 @@ export const skillGroups: SkillGroup[] = [
     label: "front-end",
     skills: [
       "React.js",
-      "Angular 17+",
+      "Next.js",
       "TypeScript",
       "JavaScript (ES6+)",
       "HTML5",

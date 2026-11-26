@@ -18,6 +18,20 @@ export type Project = {
 
 export const projects: Project[] = [
   {
+    slug: "encaixe",
+    title: "Encaixe",
+    word: "encaixe",
+    category: "Full-stack",
+    year: "2026",
+    description:
+      "Agendamento para pequenos negócios: página pública por slug, login com GitHub e confirmação por e-mail. Dois clientes não ficam com o mesmo horário — transação serializável e índice único parcial no Postgres.",
+    stack: ["Next.js", "TypeScript", "Postgres", "Prisma", "Auth.js"],
+    cover: { from: "#243252", to: "#111a2c", ink: "#eef2f8" },
+    image: "/projetos/encaixe-dashboard.jpg",
+    url: "https://encaixe-hazel.vercel.app",
+    repo: "https://github.com/VictorStavarengo/encaixe",
+  },
+  {
     slug: "pulso",
     title: "Pulso",
     word: "pulso",

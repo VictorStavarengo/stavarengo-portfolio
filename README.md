@@ -7,7 +7,7 @@ Site pessoal de João Victor Stavarengo: portfólio, jornada profissional, compe
 ## O que tem aqui
 
 - Seções editoriais com paleta madeira/preto/branco e tipografia Cabinet Grotesk
-- Projetos com **prévia ao vivo em iframe** (Pulso, Catálogo de Jogos, Pokédex, Lista de Tarefas)
+- Projetos com **prévia ao vivo em iframe** (Encaixe, Pulso, Catálogo de Jogos, Pokédex, Lista de Tarefas)
 - Competências em grupos com chips interativos
 - Currículo em PDF para download
 - Open Graph completo (prévia no WhatsApp/LinkedIn) e acessibilidade por teclado

@@ -16,7 +16,7 @@ import { projects, type Project } from "../data/projects";
 
 const ease = [0.22, 1, 0.36, 1] as const;
 
-const tools = ["React", "TypeScript", "Angular", "Tailwind CSS", "CSS & Motion"];
+const tools = ["React", "TypeScript", "Next.js", "Tailwind CSS", "CSS & Motion"];
 
 export default function Home() {
   const [active, setActive] = useState(0);
