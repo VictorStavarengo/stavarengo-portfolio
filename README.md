@@ -1,5 +1,7 @@
 # stavarengo — portfólio
 
+[![CI](https://github.com/VictorStavarengo/stavarengo-portfolio/actions/workflows/ci.yml/badge.svg)](https://github.com/VictorStavarengo/stavarengo-portfolio/actions/workflows/ci.yml)
+
 Site pessoal de João Victor Stavarengo: portfólio, jornada profissional, competências e projetos, feito com React 19, TypeScript e Vite.
 
 **Ao vivo:** [victorstavarengo.vercel.app](https://victorstavarengo.vercel.app)
