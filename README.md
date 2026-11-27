@@ -4,7 +4,7 @@
 
 Site pessoal de João Victor Stavarengo: portfólio, jornada profissional, competências e projetos, feito com React 19, TypeScript e Vite.
 
-**Ao vivo:** [victorstavarengo.vercel.app](https://victorstavarengo.vercel.app)
+**Ao vivo:** [jvstavarengo.vercel.app](https://jvstavarengo.vercel.app)
 
 ## O que tem aqui
 
@@ -37,7 +37,7 @@ O deploy é contínuo: cada push na `main` publica automaticamente na Vercel (pr
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-victor-stavarengo-silva-78776a236/) · [Portfólio](https://victorstavarengo.vercel.app) · [Email](mailto:joaovictorstavarengo@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-victor-stavarengo-silva-78776a236/) · [Portfólio](https://jvstavarengo.vercel.app) · [Email](mailto:joaovictorstavarengo@gmail.com)
 
 ## Licença
 
